@@ -1,6 +1,6 @@
 # DEFHI91 Android
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/AssociationHIF/HIF/tree/master/app/src)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/AssociationHIF/DEFHI91/tree/master/app/src)
 
 L'application DEFHI91 propose un accès facile:
 
