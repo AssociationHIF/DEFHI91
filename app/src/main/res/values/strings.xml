@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DEFHI91</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="about_title">A propos</string>
+    <string name="about_second_title">Notre mission</string>
+    <string name="about_text">"Association d'entraide de personnes touchées par la maladie chronique invalidante et handicap invisible, dans le but d'éviter l'isolement et promouvoir la reconnaissance de diagnostics ignorés (fibromyalgie et autres). Rencontres en Essonne."</string>
+    <string name="about_second_text">"Soutenir et éviter l'isolement des personnes concernées par les conséquences de la maladie chronique invisible et invalidante Informer et promouvoir la reconnaissance administrative et sociétale des pathologies qui restent incomprises et/ou ignorées."</string>
+    <string name="about_contact1">"Tina GIRAUD, Présidente fondatrice de l'Association\n\ncontact@defhi91.fr\n\n07.81.93.54.70"</string>
+    <string name="about_sec_title">"Relevons le défi ensemble, rejoignez-nous!"</string>
+    <string name="about_sec_text">"Afin de participer aux cours de Yoga Intégral et/ou de Yoga Nidra proposés par l'association les vendredis de 19h30 à 21h30 à l'Espace Mermoz ;merci de bien vouloir vous renseigner et vous inscrire, auprès de:\n\nMme Eline NEVEU professeur de Yoga, certifiée\n\nelineneveu@hotmail.fr\n\n06.18.43.41.25"</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Réunions">
+        <menu>
+            <item android:id="@+id/nav_calendar"
+                android:icon="@drawable/ic_calendar_w"
+                android:title="Dates"/>
+
+            <item android:id="@+id/nav_where"
+                android:icon="@drawable/ic_maps_w"
+                android:title="Lieux"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Réseaux sociaux">
+        <menu>
+        <item android:id="@+id/nav_facebook"
+            android:icon="@drawable/ic_facebook_w"
+            android:title="Facebook"/>
+
+        <item android:id="@+id/nav_twitter"
+            android:icon="@drawable/ic_twitter_w"
+            android:title="Twitter"/>
+        </menu>
+        </item>
+
+        <item android:title="Autres">
+        <menu>
+
+            <item android:id="@+id/nav_website"
+            android:icon="@drawable/ic_website_w"
+            android:title="Site web"/>
+
+            <item android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about_w"
+            android:title="A propos"/>
+
+            <item android:id="@+id/nav_contact"
+             android:icon="@drawable/ic_phone_w"
+             android:title="Nous contacter"/>
+        </menu>
+        </item>
+
+    </group>
+
+</menu>

@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorSecondary">@color/colorFont</item>
+        <item name="android:listDivider">@color/colorDivider</item>
+        <item name="backgroundcolor">#F7F7F7</item>
+        <item name="backgroundcolor2">#FFFFFF</item>
+        <item name="fontcolor">#2F2F2F</item>
+        <item name="toolbarcolor">#f28600</item>
+        <item name="iconscolor">#2F2F2F</item>
+    </style>
+
+    <style name="NightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorNightPrimary</item>
+        <item name="colorPrimaryDark">@color/colorNightPrimaryDark</item>
+        <item name="colorAccent">@color/colorNightAccent</item>
+        <item name="android:textColorSecondary">@color/colorNightFont</item>
+        <item name="android:listDivider">@color/colorNightDivider</item>
+        <item name="backgroundcolor">#363636</item>
+        <item name="backgroundcolor2">#2E2E2E</item>
+        <item name="fontcolor">#ECECEC</item>
+        <item name="toolbarcolor">#202020</item>
+        <item name="iconscolor">#ECECEC</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#069adc</color>
+    <color name="colorPrimaryDark">#f28600</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDivider">#D5D5D5</color>
+    <color name="colorFont">#535353</color>
+    <color name="colorIcons">#535353</color>
+
+
+
+
+    <color name="colorNightPrimary">#414042</color>
+    <color name="colorNightPrimaryDark">#202020</color>
+    <color name="colorNightAccent">#069adc</color>
+    <color name="colorNightDivider">#4d4c4f</color>
+    <color name="colorNightFont">#ffffff</color>
+    <color name="colorNightIcons">#ffffff</color>
+    <color name="colorDone">#D32C23</color>
+</resources>
