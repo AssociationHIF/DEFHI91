@@ -4,9 +4,9 @@ android {
     signingConfigs {
         config {
             keyAlias 'key0'
-            keyPassword 'crxforme'
+            keyPassword '********'
             storeFile file('/Users/misagi/Documents/ReleaseKeyStore')
-            storePassword 'crxforme'
+            storePassword '********'
         }
     }
     compileSdkVersion 28
